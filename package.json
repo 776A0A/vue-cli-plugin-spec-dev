@@ -1,0 +1,19 @@
+{
+    "name": "vue-cli-plugin-spec-dev",
+    "version": "0.1.0",
+    "description": "配置规范化的开发流程",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "vue-cli-plugin"
+    ],
+    "author": "wj",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/776A0A/vue-cli-plugin-spec-dev"
+    },
+    "homepage": "https://github.com/776A0A/vue-cli-plugin-spec-dev"
+}
